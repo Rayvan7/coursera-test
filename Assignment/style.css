@@ -12,6 +12,7 @@ h1{
 {
 border: 1px solid black;
 position: relative;
+background-color: #b3a4a4;
 padding: 10px;
 height: 200px;	
 }
